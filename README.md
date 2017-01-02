@@ -1,5 +1,5 @@
 # hotreload-example
-Proof-of-concept for hot code reload in go
+Proof-of-concept for hot code reload in go. Currently only works on Linux using go1.8beta2!
 
 ## Usage
 
